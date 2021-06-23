@@ -67,4 +67,5 @@ Please note that TSCC dataset is created **for the academic purpose.** Therefore
 
 ## References
 \[1] KevinMercury (Kankawin Phatharakitsahakul). Thai Supreme Court Cases (TSCC) Dataset \[Online]. Available: https://github.com/KevinMercury/tscc-dataset
+
 \[2] Nguyen Le Minh. ALQAC 2021 \[Online]. Available: https://www.jaist.ac.jp/is/labs/nguyen-lab/home/alqac-2021/
