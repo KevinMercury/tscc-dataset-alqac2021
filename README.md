@@ -24,6 +24,8 @@ JSON Object of Criminal Code has two keys. The "id" key contains the initial of 
 ]
 ```
 
+Please note that "CC-001(1)-00" means the Criminal Code (CC) Section 1(1) (001(1)) with the original provision (00). If the provision has some revision, it will be increment with the number of revision. For example, "CC-326-01" means the Criminal Code Section 326 with the 1st revision.
+
 ## tscc_alqqac2021_question.train.json
 This file  has a big JSON array which stores all legal questions. Each question will be a JSON object consists of question id, text, label, year and relevant_articles. Please note that relevant_articles will store all legal provisions related to that question and linked to the JSON file of law.
 
