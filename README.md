@@ -2,7 +2,7 @@
 
 This is the dataset first appeared in the paper "Predicting Judicial Decisions of Criminal Cases from Thai Supreme Court Using Bi-directional GRU with Attention Mechanism" presented at the 5th Asian Conference on Defense Technology (ACDT 2018) in Hanoi, Vietnam. You can find the original dataset, its source and explanation at [[1]](https://github.com/KevinMercury/tscc-dataset).
 
-However, exclusively for the 2021 Automated Legal Question Answering Competition (ALQAC 2021) [[2]](https://www.jaist.ac.jp/is/labs/nguyen-lab/home/alqac-2021/) [3](https://iisi.siit.tu.ac.th/KSE2021/front/show/call-for-alqac), TSCC has been altered from the csv version to that of JSON. As a result, this repository consists of two JSON files that will be used for the competition.
+However, exclusively for the 2021 Automated Legal Question Answering Competition (ALQAC 2021) [[2]](https://www.jaist.ac.jp/is/labs/nguyen-lab/home/alqac-2021/) [[3]](https://iisi.siit.tu.ac.th/KSE2021/front/show/call-for-alqac), TSCC has been altered from the csv version to that of JSON. As a result, this repository consists of two JSON files that will be used for the competition.
 
 ## tscc_alqac2021_law.json (Law file)
 This file contains a big JSON array storing JSON objects of law mentioned in the question file. However, as we have only one law at this moment which is the Criminal Code (CC), that array has only one JSON Object.
